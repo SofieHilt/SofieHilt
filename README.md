@@ -4,4 +4,3 @@ I'm interested in Linux, FLOSS, and the open, decentralized web.
 My goal is to contribute something useful, enjoyable and beautiful. 
 Whatever I create, I want to ensure that people can review, learn from, modify, and freely share it - allowing us all to profit and grow together.
 
--> this is my GitHub Mirror. I mainly use Codeberg, a non-profit alternative for FLOSS projects.  
